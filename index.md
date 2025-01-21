@@ -8,7 +8,7 @@ I have build a model using a Multiple Linear Regression, which will help the dem
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ramandeepmehra/Linear-Regression-Assignment)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="images/Bike_Sharing.jpg"/></center>
 
 ---
 ### Financial-Models-Numerical-Methods
