@@ -49,9 +49,9 @@ This project showcases my skills in deep learning, CNN architecture design, and 
 <center><img src="assets/img/Melanoma.jpg"/></center>
 
 ---
-### Financial-Models-Numerical-Methods
+### Custom Chatbot with LLMs
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ramandeepmehra/Custom-Chatbot-With-LLMs)
 
 This is just a collection of topics and algorithms that in my opinion are interesting.
 
