@@ -53,12 +53,15 @@ This project showcases my skills in deep learning, CNN architecture design, and 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ramandeepmehra/Custom-Chatbot-With-LLMs)
 
-This is just a collection of topics and algorithms that in my opinion are interesting.
+Developed an AI-powered chatbot to simplify holiday planning.  Leveraging OpenAI's APIs and function-calling capabilities, the chatbot assists users in selecting personalized holiday packages based on their preferences (destination, budget, duration, etc.).
 
-It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
-The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
+Built a functional chatbot that understands user preferences and provides tailored holiday package recommendations. Successfully integrated external APIs for enhanced functionality and user experience.
 
-<center><img src="images/financial_modeling.jpg"/></center>
+Addressed challenges related to repeated responses, ambiguous inputs, and context maintenance in long conversations.
+
+This project demonstrates my skills in chatbot development, natural language processing, API integration, and system design. I am proficient in building conversational AI agents that can understand user needs and provide personalized solutions.
+
+<center><img src="assets/img/Chatbot.png"/></center>
 
 ---
 ### LSTM Neural Network for Time Series Prediction
