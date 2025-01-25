@@ -2,6 +2,20 @@
 ---
 ## Machine learning Projects
 
+### Gesture Recognizer
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ramandeepmehra/Gesture-Recognition)
+
+Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
+
+Key Requirements: Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 0.9.0 (obsolete and not supported any further)
+
+Suggestion: Better to download Anaconda as it will take care of most of the other packages and easier to setup a virtual workspace to work with multiple versions of key packages like python, opencv etc.
+
+<center><img src="images/gesture_recognition.jpg"/></center>
+
+---
+
 ### Fraud Detection
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
@@ -50,19 +64,7 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 <center><img src="images/machine_learning.jpg"/></center>
 
 ---
-### Gesture Recognizer
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/CNNGestureRecognizer)
-
-Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
-
-Key Requirements: Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 0.9.0 (obsolete and not supported any further)
-
-Suggestion: Better to download Anaconda as it will take care of most of the other packages and easier to setup a virtual workspace to work with multiple versions of key packages like python, opencv etc.
-
-<center><img src="images/gesture_recognition.jpg"/></center>
-
----
 ### Human Activity Recognition
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Human-Activity-Recognition)
