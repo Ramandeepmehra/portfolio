@@ -6,9 +6,10 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ramandeepmehra/Gesture-Recognition)
 
-Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
+This project involved developing a machine learning model to enable gesture-based control of a smart TV. 
+The goal was to create a user-friendly experience that allows viewers to interact with the TV using five predefined hand gestures captured by a webcam.
 
-Key Requirements: Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 0.9.0 (obsolete and not supported any further)
+This project showcases my proficiency in machine learning for computer vision tasks, particularly gesture recognition. I am adept at data preprocessing, model selection, training, and evaluation, and I am passionate about developing innovative solutions that enhance user experience.
 
 Suggestion: Better to download Anaconda as it will take care of most of the other packages and easier to setup a virtual workspace to work with multiple versions of key packages like python, opencv etc.
 
