@@ -35,11 +35,16 @@ This project demonstrates my skills in natural language processing, topic modeli
 
 ---
 
-### Fraud Detection
+### Melanoma Detection
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+Developed a multiclass image classification model using a custom Convolutional Neural Network (CNN) in TensorFlow to detect melanoma, a deadly form of skin cancer.  The goal was to create a tool to assist dermatologists in early diagnosis.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+Designed and implemented a CNN architecture tailored for melanoma classification, incorporating convolutional layers, max-pooling, and fully connected layers.
+
+This project showcases my skills in deep learning, CNN architecture design, and image classification using TensorFlow. I am proficient in data preprocessing, model training, hyperparameter tuning, and performance evaluation for computer vision tasks.
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ramandeepmehra/Melanoma_Detection_Assignment)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
