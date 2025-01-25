@@ -46,7 +46,7 @@ This project showcases my skills in deep learning, CNN architecture design, and 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ramandeepmehra/Melanoma_Detection_Assignment)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/Melanoma.jpg"/></center>
 
 ---
 ### Financial-Models-Numerical-Methods
