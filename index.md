@@ -29,7 +29,7 @@ Built and evaluated multiple supervised learning models, selecting the optimal o
 
 Automated the customer support ticket system, leading to faster issue resolution and improved customer experience.
 
-This project demonstrates my skills in natural language processing, topic modeling, and supervised machine learning. I am proficient in handling unstructured data, extracting meaningful features, and building effective classification models for real-world applications.
+This project demonstrates my skills in natural language processing, topic modeling, and supervised machine learning. 
 
 <center><img src="assets/img/Ticket Classification.png"/></center>
 
@@ -41,7 +41,7 @@ Developed a multiclass image classification model using a custom Convolutional N
 
 Designed and implemented a CNN architecture tailored for melanoma classification, incorporating convolutional layers, max-pooling, and fully connected layers.
 
-This project showcases my skills in deep learning, CNN architecture design, and image classification using TensorFlow. I am proficient in data preprocessing, model training, hyperparameter tuning, and performance evaluation for computer vision tasks.
+This project showcases my skills in deep learning, CNN architecture design, and image classification using TensorFlow. 
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ramandeepmehra/Melanoma_Detection_Assignment)
@@ -59,16 +59,24 @@ Built a functional chatbot that understands user preferences and provides tailor
 
 Addressed challenges related to repeated responses, ambiguous inputs, and context maintenance in long conversations.
 
-This project demonstrates my skills in chatbot development, natural language processing, API integration, and system design. I am proficient in building conversational AI agents that can understand user needs and provide personalized solutions.
+This project demonstrates my skills in chatbot development, natural language processing, API integration, and system design.
 
 <center><img src="assets/img/Chatbot_2.png"/></center>
 
 ---
-### LSTM Neural Network for Time Series Prediction
+### Advance Regression
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Neural-Network-for-Time-Series-Prediction)
 
-The following article sections will briefly touch on LSTM neuron cells, give a toy example of predicting a sine wave then walk through the application to a stochastic time series. The article assumes a basic working knowledge of simple deep neural networks.
+Developed a polynomial regression model using regularization techniques (Ridge and Lasso) to predict house prices and identify key price drivers.  The goal was to assist a US-based housing company (Surprise Housing) in understanding the Australian market for potential investment opportunities.
+
+Built a predictive model for house prices using polynomial regression and regularization.
+
+Identified the most significant variables influencing house prices.
+
+Selected Lasso regression as the final model due to its ability to create a simpler model with key feature. 
+
+This project demonstrates my skills in data analysis, feature engineering, regularization techniques, and model selection for regression tasks.
 
 <center><img src="https://camo.githubusercontent.com/a085b4fe60690252b8aa2de917c53fc3f63aec21aafea21c8f1ecb543d2c44cb/68747470733a2f2f7777772e616c74756d696e74656c6c6967656e63652e636f6d2f6173736574732f74696d652d7365726965732d70726564696374696f6e2d7573696e672d6c73746d2d646565702d6e657572616c2d6e6574776f726b732f73696e776176655f66756c6c5f7365712e706e67"/></center>
 
