@@ -61,7 +61,7 @@ Addressed challenges related to repeated responses, ambiguous inputs, and contex
 
 This project demonstrates my skills in chatbot development, natural language processing, API integration, and system design. I am proficient in building conversational AI agents that can understand user needs and provide personalized solutions.
 
-<center><img src="assets/img/Chatbot.png"/></center>
+<center><img src="assets/img/Chatbot_2.png"/></center>
 
 ---
 ### LSTM Neural Network for Time Series Prediction
