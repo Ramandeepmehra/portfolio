@@ -66,7 +66,7 @@ This project demonstrates my skills in chatbot development, natural language pro
 ---
 ### Advance Regression
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Neural-Network-for-Time-Series-Prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ramandeepmehra/Assignment-Advance-Regression)
 
 Developed a polynomial regression model using regularization techniques (Ridge and Lasso) to predict house prices and identify key price drivers.  The goal was to assist a US-based housing company (Surprise Housing) in understanding the Australian market for potential investment opportunities.
 
