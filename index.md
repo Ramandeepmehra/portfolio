@@ -82,11 +82,19 @@ This project demonstrates my skills in data analysis, feature engineering, regul
 
 ---
 
-### Awesome Machine Learning
+### Mr. HelpMate AI Chatbot
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/awesome-machine-learning)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ramandeepmehra/Mr.HelpMate-AI/tree/master)
 
-A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
+Developed Mr.HelpMate AI, a generative search system designed to efficiently answer questions about a specific policy document.  The system uses NLP and machine learning to provide concise and informative answers directly extracted from the document.
+
+**Data Preparation:** Loaded and processed the policy document, chunked the text, and created embeddings for each chunk.
+**Embedding and Indexing:** Used ChromaDB to store and retrieve embeddings efficiently.
+**Query Processing:** Embedded user queries and performed similarity searches against the indexed document chunks. Implemented re-ranking using a cross-encoder model.
+**Answer Generation:** Integrated the OpenAI API (GPT-4) to generate concise answers from the top retrieved document chunks using prompt engineering.
+
+This project demonstrates my skills in natural language processing, information retrieval, large language model integration, and system design. 
+
 
 <center><img src="images/machine_learning.jpg"/></center>
 
