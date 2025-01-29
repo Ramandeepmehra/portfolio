@@ -96,7 +96,7 @@ Developed Mr.HelpMate AI, a generative search system designed to efficiently ans
 This project demonstrates my skills in natural language processing, information retrieval, large language model integration, and system design. 
 
 
-<center><img src="images/machine_learning.jpg"/></center>
+<center><img src="assets/img/best-ai-chatbot-for-business.jpg"/></center>
 
 ---
 
